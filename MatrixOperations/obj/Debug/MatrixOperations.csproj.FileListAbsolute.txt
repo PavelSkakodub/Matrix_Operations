@@ -1,0 +1,31 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\MatrixOperations\MatrixOperations\bin\Debug\MatrixOperations.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\MatrixOperations\MatrixOperations\bin\Debug\MatrixOperations.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\MatrixOperations\MatrixOperations\bin\Debug\MatrixOperations.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.csprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.Form1.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.csproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.pdb
+C:\Users\Костя  и  Паша\Desktop\MatrixOperations\MatrixOperations\bin\Debug\MatrixOperations.exe.config
+C:\Users\Костя  и  Паша\Desktop\MatrixOperations\MatrixOperations\bin\Debug\MatrixOperations.exe
+C:\Users\Костя  и  Паша\Desktop\MatrixOperations\MatrixOperations\bin\Debug\MatrixOperations.pdb
+C:\Users\Костя  и  Паша\Desktop\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.csprojAssemblyReference.cache
+C:\Users\Костя  и  Паша\Desktop\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.Form1.resources
+C:\Users\Костя  и  Паша\Desktop\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.Properties.Resources.resources
+C:\Users\Костя  и  Паша\Desktop\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.csproj.GenerateResource.cache
+C:\Users\Костя  и  Паша\Desktop\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.csproj.CoreCompileInputs.cache
+C:\Users\Костя  и  Паша\Desktop\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.exe
+C:\Users\Костя  и  Паша\Desktop\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.pdb
+C:\Users\Костя  и  Паша\Desktop\Паша\Универ 2 курс\ТП 2 семестр\MatrixOperations\MatrixOperations\bin\Debug\MatrixOperations.exe.config
+C:\Users\Костя  и  Паша\Desktop\Паша\Универ 2 курс\ТП 2 семестр\MatrixOperations\MatrixOperations\bin\Debug\MatrixOperations.exe
+C:\Users\Костя  и  Паша\Desktop\Паша\Универ 2 курс\ТП 2 семестр\MatrixOperations\MatrixOperations\bin\Debug\MatrixOperations.pdb
+C:\Users\Костя  и  Паша\Desktop\Паша\Универ 2 курс\ТП 2 семестр\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.csprojAssemblyReference.cache
+C:\Users\Костя  и  Паша\Desktop\Паша\Универ 2 курс\ТП 2 семестр\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.Form1.resources
+C:\Users\Костя  и  Паша\Desktop\Паша\Универ 2 курс\ТП 2 семестр\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.Properties.Resources.resources
+C:\Users\Костя  и  Паша\Desktop\Паша\Универ 2 курс\ТП 2 семестр\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.csproj.GenerateResource.cache
+C:\Users\Костя  и  Паша\Desktop\Паша\Универ 2 курс\ТП 2 семестр\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.csproj.CoreCompileInputs.cache
+C:\Users\Костя  и  Паша\Desktop\Паша\Универ 2 курс\ТП 2 семестр\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.exe
+C:\Users\Костя  и  Паша\Desktop\Паша\Универ 2 курс\ТП 2 семестр\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.pdb
+C:\Users\Костя  и  Паша\Desktop\Паша\Универ 2 курс\ТП 2 семестр\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.InfoForm.resources
